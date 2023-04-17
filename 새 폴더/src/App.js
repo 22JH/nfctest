@@ -1,3 +1,5 @@
+import { useState } from "react";
+import { useEffect } from "react";
 const App = () => {
   // const ndef = new NDEFReader();
   const [status, setStatus] = useState("bad");
