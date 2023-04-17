@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nfctest/static/js/main.8c993eaa.js",
+    "index.html": "/nfctest/index.html",
+    "main.8c993eaa.js.map": "/nfctest/static/js/main.8c993eaa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8c993eaa.js"
+  ]
+}
