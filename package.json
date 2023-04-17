@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://22JH.github.io/nfctest",
+  "homepage": "http://22jh.github.io/nfctest",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
